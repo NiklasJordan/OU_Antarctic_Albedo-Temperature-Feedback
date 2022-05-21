@@ -1,0 +1,6 @@
+data/*
+.idea
+.ipynb_checkpoints
+.RData
+.Rhistory
+.DS_Store
